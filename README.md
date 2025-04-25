@@ -31,8 +31,6 @@ Try 2 approaches to model building: In the first case, use algorithms such as ra
 #### Outline of project
 
 - [Link to notebook 1](https://github.com/lematya/bkly_aiml_capstone_initial_report/blob/main/pisaac_capstone_initialreport.ipynb)
-- [Link to notebook 2]()
-- [Link to notebook 3]()
 
 
 ##### Contact and Further Information
