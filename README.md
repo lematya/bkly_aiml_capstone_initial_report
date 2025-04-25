@@ -1,5 +1,5 @@
 ### Project Title
-
+Capstone Project Initial Report - Exploratory Data Analysis for Exoplanet Detection using Transit Method
 **Author**
 Prem Isaac
 #### Executive summary
@@ -9,10 +9,10 @@ Why should anyone care about this question?
 
 #### Research Question
 What are you trying to answer?
-
+Can the presence of exoplanets orbiting a star be predicted by observing changes in the star's brightness over time?
 #### Data Sources
 What data will you use to answer you question?
-
+Lightcurve data (timeseries of flux(brightness)) from KEPLER or TESS
 #### Methodology
 What methods are you using to answer the question?
 
