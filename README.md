@@ -9,7 +9,7 @@ The light received from a star decreases in brightness whenever an object passes
 Why should anyone care about this question?
 Theoretical:  Detection exoplanets is central to the search for habitable worlds and understanding planetary formation. Automating transit detection through ML accelerates the discovery process, enabling astronomers to analyze large datasets from missions like JWST and TESS more efficiently and uncover planets that may otherwise go unnoticed.
 
-Practical Dividend: The methodology used here can be refined and applied for motion detection near any fluctuating light source , artifical or natural, to infer the presence of airborne objects which cause light to dip. Additionally, since predictive success depends not only on the specific Machine Learning algorithm used but the quality of the data itself, this exercise can be used to assess and refine the quality of the measuring instrument, which is the telescope , and this can lead to more dividends (improvements to the telescope).
+**Practical Dividend**: The methodology used here can be refined and applied for motion detection near any fluctuating light source , artifical or natural, to infer the presence of airborne objects which cause light to dip. Additionally, since predictive success depends not only on the specific Machine Learning algorithm used but the quality of the data itself,** this exercise can be used to assess and refine the quality of the measuring instrument, which is the telescope** , and this can lead to more dividends (improvements to the telescope). In a manner of speaking, building successful models or failing to build successful models serve as a way to test or assess the quality of the telescope.
 
 #### Research Question
 What are you trying to answer?
