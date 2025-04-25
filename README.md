@@ -30,7 +30,7 @@ What suggestions do you have for next steps?
 Try 2 approaches to model building: In the first case, use algorithms such as random forest, gradient boosting, and decision trees. In the second approace, use varieties of Neural Networks.
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to notebook 1](https://github.com/lematya/bkly_aiml_capstone_initial_report/blob/main/pisaac_capstone_initialreport.ipynb)
 - [Link to notebook 2]()
 - [Link to notebook 3]()
 
